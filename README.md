@@ -14,8 +14,8 @@ I turn data into decisions. My background spans consulting, telecom analytics, a
 
 ## 📌 Featured projects
 
-- **[Inventory Optimization](https://github.com/Christian-osadebe/inventory-optimization)** — Linear programming model that balances stock levels against holding costs to maximize profit. *(Repo coming soon — link goes live once published.)*
-- **[Telecom Churn Analysis](https://github.com/Christian-osadebe/telecom-churn-analysis)** — Customer segmentation and churn-risk scoring on telecom usage data to guide retention strategy. *(Repo coming soon.)*
+- **[Operations Optimization Models](https://github.com/Christian-osadebe/operations-optimization-models)** — Linear programming models (R, lpSolveAPI): profit-maximizing production mix across three plants under capacity, storage, and sales constraints, plus cost-optimal staff scheduling. *(Repo coming soon — link goes live once published.)*
+- **[Online Retail Customer Analytics](https://github.com/Christian-osadebe/online-retail-customer-analytics)** — Exploratory analysis (R) of online retail transactions: customer patterns, revenue drivers, country-level trends, and high-value customer segments. *(Repo coming soon.)*
 
 ## 💼 Experience
 
