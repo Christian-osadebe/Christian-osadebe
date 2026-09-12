@@ -11,6 +11,7 @@ I turn data into decisions. My background spans consulting, telecom analytics, a
 - **Languages & databases:** SQL (PostgreSQL), Python, R
 - **BI & visualization:** Tableau, Power BI, Excel
 - **Methods:** Machine learning, statistical modeling, segmentation & retention analysis, forecasting, linear programming
+- - **AI for analytics:** AI-assisted EDA with verified hypotheses, prompt engineering with verification logs, solver-executed what-if analysis, AI-drafted executive narratives — every figure human-verified
 
 ## 📌 Featured projects
 
