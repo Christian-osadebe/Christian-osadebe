@@ -1,10 +1,13 @@
 ## Hi there, I'm Christian Osadebe 👋
 
 
-🎓 MS Business Analytics candidate @ **Kent State University** 📍 Cleveland, Ohio
+🎓 **Business Analyst Intern (Spring 2027, CPT)** | MS Business Analytics Candidate @ **Kent State University** 📍 Cleveland, Ohio
 
 
-🔎 Actively seeking a **Spring 2027 Data Analytics internship** — open to on-site, hybrid, and remote
+🛠️ **SQL • Python • Tableau • Power BI** — AI-Assisted Analytics → AI Solution Engineer
+
+
+🔎 Actively seeking: **Business Analyst Intern (Spring 2027, CPT)** — open to on-site, hybrid, and remote
 
 
 I turn data into decisions. My background spans consulting, telecom analytics, and optimization modeling — from KPI dashboards executives actually use to profit-maximizing linear programs.
