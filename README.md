@@ -1,7 +1,7 @@
 ## Hi there, I'm Christian Osadebe 👋
 
 
-🎓 MS Business Analytics candidate @ **Kent State University** 📍 Kent, Ohio
+🎓 MS Business Analytics candidate @ **Kent State University** 📍 Cleveland, Ohio
 
 
 🔎 Actively seeking a **Spring 2027 Data Analytics internship** — open to on-site, hybrid, and remote
