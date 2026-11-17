@@ -27,10 +27,10 @@ I turn data into decisions. My background spans consulting, telecom analytics, a
 ## 📌 Featured projects
 
 
-- **Operations Optimization Models** — Linear programming (R, lpSolveAPI): Optimized distribution cost to $132,790 using linear programming, validating results across R, Python, and SQL, plus a staff-scheduling model reduced compliant weekly labor cost to $25,675; AI-assisted what-if analysis with a verification log. *(Repo coming soon — link goes live once published.)*
+- **[Operations Optimization Models](https://github.com/Christian-osadebe/operations-optimization-models)** — Linear programming (R, lpSolveAPI): Optimized distribution cost to $132,790 using linear programming, validating results across R, Python, and SQL, plus a staff-scheduling model reduced compliant weekly labor cost to $25,675; AI-assisted what-if analysis with a verification log.
 
 
-- **Online Retail Customer Analytics** — Exploratory analysis (R) of online retail transactions: UK drove 91.4% of volume with Thursday as the peak day; cleaned transactions with 24.9% missing customer IDs; engineered RFM features and segmented 4,339 customers into 9 tiers, identifying 569 Champion-tier customers as the priority retention cohort. Every AI-suggested pattern re-tested in R/Python. *(Repo coming soon.)*
+- **[Online Retail Customer Analytics](https://github.com/Christian-osadebe/online-retail-customer-analytics)** — Exploratory analysis (R) of online retail transactions: UK drove 91.4% of volume with Thursday as the peak day; cleaned transactions with 24.9% missing customer IDs; engineered RFM features and segmented 4,339 customers into 9 tiers, identifying 569 Champion-tier customers as the priority retention cohort. Every AI-suggested pattern re-tested in R/Python.
 
 
 ## 💼 Experience
